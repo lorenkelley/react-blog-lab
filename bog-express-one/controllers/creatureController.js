@@ -31,7 +31,6 @@ delete: (req, res) => {
         res.send()
     })
 }
-
 }
 
 
